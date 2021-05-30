@@ -1,0 +1,7 @@
+env/
+SUNRGBD/
+.vscode/
+sunrgbd_train_test_labels/
+data/
+testing_images.txt
+training_images.txt
